@@ -9,6 +9,7 @@
       Title="BrowseCatalogPage">
 
     <Grid>
-        
+        <TextBlock FontSize="40" Text="Страница для просмотра книг"/>
+
     </Grid>
 </Page>

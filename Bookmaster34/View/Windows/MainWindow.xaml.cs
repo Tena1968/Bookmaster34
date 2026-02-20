@@ -22,6 +22,7 @@ namespace Bookmaster34
         public MainWindow()
         {
             InitializeComponent();
+            MainFrame. Navigate(new BrowseCatalogPage());
         }
 
         private void LoginMi_Click(object sender, RoutedEventArgs e)

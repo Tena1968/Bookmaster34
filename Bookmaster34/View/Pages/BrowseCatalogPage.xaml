@@ -87,7 +87,7 @@
                     
                     <Button Name="PreviousPageBtn" Content="&lt;" Grid.Column="2"  Click="PreviousPageBtn_Click"/>
                     
-                    <TextBox Name="CurrentPageTb" Grid.Row="4"/>
+                    <TextBox Name="CurrentPageTb" Grid.Column="4"/>
 
                     <Button Name="NextPageBtn" Content="&gt;" Grid.Column="6" Click="NextPageBtn_Click"/>
                     
